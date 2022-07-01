@@ -6,9 +6,10 @@ function reverseNumber(num){
     for (let i = text.length - 1; i >= 0; i--) {
        newDigit += text[i];
     }
-    console.log(newDigit)
     parseInt(newDigit)
-    return newDigit
+    console.log(newDigit)
+
+    // return newDigit
 }
 
-reverseNumber(1234)
+reverseNumber(12)

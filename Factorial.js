@@ -6,4 +6,4 @@ function factorial(num){
     console.log(result);
 }
 
-factorial(5)
+factorial(-7)
