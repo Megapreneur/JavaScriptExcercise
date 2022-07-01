@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d23d2f91-d06c-45cb-be69-31d7b84b4a78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factorial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptExcercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MostFrequentItemOfAnArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrimeNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringPalindrome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="d23d2f91-d06c-45cb-be69-31d7b84b4a78" name="Changes" comment="Having  some fun with JavaScript">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MostFrequentItemOfAnArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/MostFrequentItemOfAnArray.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +41,15 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.PrimeNumber.js">
+  <component name="RunManager" selected="Node.js.ReverseNumber.js">
     <configuration name="Factorial.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Factorial.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="MostFrequentItemOfAnArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/MostFrequentItemOfAnArray.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="PrimeNumber.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PrimeNumber.js" working-dir="$PROJECT_DIR$">
@@ -68,8 +63,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.PrimeNumber.js" />
         <item itemvalue="Node.js.ReverseNumber.js" />
+        <item itemvalue="Node.js.MostFrequentItemOfAnArray.js" />
+        <item itemvalue="Node.js.PrimeNumber.js" />
         <item itemvalue="Node.js.StringPalindrome.js" />
         <item itemvalue="Node.js.Factorial.js" />
       </list>
@@ -83,8 +79,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656668445543</updated>
-      <workItem from="1656668446970" duration="7140000" />
+      <workItem from="1656668446970" duration="10680000" />
     </task>
+    <task id="LOCAL-00001" summary="Having  some fun with JavaScript">
+      <created>1656678358477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656678358477</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Having  some fun with JavaScript" />
+    <option name="LAST_COMMIT_MESSAGE" value="Having  some fun with JavaScript" />
   </component>
 </project>
