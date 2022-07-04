@@ -1,14 +1,14 @@
-function farmInventoryPrinting(number, label){
+function zeroPad(number, width){
     let numberString = String(number);
-    while (numberString.length < 3){
+    while (numberString.length < width){
         numberString = "0" + numberString;
     }
-    console.log(`${numberString} ${label}`)
+    return numberString;
 }
 function advanceFarmInventoryPrinting(cows, chickens, goats){
-    farmInventoryPrinting(cows, "Cows")
-    farmInventoryPrinting(chickens, "Chickens")
-    farmInventoryPrinting(goats, "Goats")
+    console.log(`${zeroPad(cows, 3)} Cows`);
+    console.log(`${zeroPad(chickens, 3)} Chickens`);
+    console.log(`${zeroPad(goats, 3)} Goats`);
 
 }
 

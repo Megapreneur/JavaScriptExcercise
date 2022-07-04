@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d23d2f91-d06c-45cb-be69-31d7b84b4a78" name="Changes" comment="Having  some fun with JavaScript">
-      <change afterPath="$PROJECT_DIR$/AdvancePrintingFarmInventory.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvancePrintingFarmInventory.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancePrintingFarmInventory.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +106,7 @@
       <workItem from="1656867195003" duration="897000" />
       <workItem from="1656925921051" duration="2747000" />
       <workItem from="1656939436938" duration="2933000" />
-      <workItem from="1656968169392" duration="4785000" />
+      <workItem from="1656968169392" duration="5944000" />
     </task>
     <task id="LOCAL-00001" summary="Having  some fun with JavaScript">
       <created>1656678358477</created>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656973637282</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Having  some fun with JavaScript">
+      <created>1656974688213</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656974688213</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
