@@ -9,4 +9,4 @@ function convertNumberToRoman(number){
     console.log(result)
 }
 
-convertNumberToRoman(1175)
+convertNumberToRoman(17)

@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d23d2f91-d06c-45cb-be69-31d7b84b4a78" name="Changes" comment="Having  some fun with JavaScript">
-      <change afterPath="$PROJECT_DIR$/ChessBoard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FizzBuzz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrintingTriangles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecursionPractise.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessBoard.js" beforeDir="false" afterPath="$PROJECT_DIR$/ChessBoard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examples.js" beforeDir="false" afterPath="$PROJECT_DIR$/Examples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberToRomanNumerals.js" beforeDir="false" afterPath="$PROJECT_DIR$/NumberToRomanNumerals.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +25,28 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="false" />
+    <option name="myAllFileTypesSelected" value="true" />
+    <option name="mySelectedFileTypes">
+      <set />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="false" />
+    <option name="myAllFileTypesSelected" value="true" />
+    <option name="mySelectedFileTypes">
+      <set />
+    </option>
   </component>
   <component name="ProjectId" id="2BKxBfXsfRvvfPncKvrMCFzA25H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,7 +58,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -47,8 +70,8 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.FizzBuzz.js">
-    <configuration name="Factorial.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Factorial.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.RecursionPractise.js">
+    <configuration name="ChessBoard.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ChessBoard.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="FizzBuzz.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/FizzBuzz.js" working-dir="$PROJECT_DIR$">
@@ -57,19 +80,19 @@
     <configuration name="NumberToRomanNumerals.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NumberToRomanNumerals.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="ReverseNumber.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ReverseNumber.js" working-dir="$PROJECT_DIR$">
+    <configuration name="PrintingTriangles.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PrintingTriangles.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="ShufflingAnArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ShufflingAnArray.js" working-dir="$PROJECT_DIR$">
+    <configuration name="RecursionPractise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/RecursionPractise.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.FizzBuzz.js" />
+        <item itemvalue="Node.js.RecursionPractise.js" />
+        <item itemvalue="Node.js.PrintingTriangles.js" />
+        <item itemvalue="Node.js.ChessBoard.js" />
         <item itemvalue="Node.js.NumberToRomanNumerals.js" />
-        <item itemvalue="Node.js.ShufflingAnArray.js" />
-        <item itemvalue="Node.js.ReverseNumber.js" />
-        <item itemvalue="Node.js.Factorial.js" />
+        <item itemvalue="Node.js.FizzBuzz.js" />
       </list>
     </recent_temporary>
   </component>
@@ -84,6 +107,10 @@
       <workItem from="1656668446970" duration="13461000" />
       <workItem from="1656686818295" duration="3233000" />
       <workItem from="1656789541499" duration="6644000" />
+      <workItem from="1656867195003" duration="897000" />
+      <workItem from="1656925921051" duration="2747000" />
+      <workItem from="1656939436938" duration="2933000" />
+      <workItem from="1656968169392" duration="1687000" />
     </task>
     <task id="LOCAL-00001" summary="Having  some fun with JavaScript">
       <created>1656678358477</created>
@@ -113,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656793255717</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Having  some fun with JavaScript">
+      <created>1656867210794</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656867210794</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,5 +167,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Having  some fun with JavaScript" />
     <option name="LAST_COMMIT_MESSAGE" value="Having  some fun with JavaScript" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
 </project>
