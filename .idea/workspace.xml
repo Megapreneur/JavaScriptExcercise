@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d23d2f91-d06c-45cb-be69-31d7b84b4a78" name="Changes" comment="Having  some fun with JavaScript">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d23d2f91-d06c-45cb-be69-31d7b84b4a78" name="Changes" comment="Having  some fun with JavaScript" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +105,7 @@
       <workItem from="1656939436938" duration="2933000" />
       <workItem from="1656968169392" duration="7201000" />
       <workItem from="1657183515579" duration="622000" />
+      <workItem from="1657614274045" duration="778000" />
     </task>
     <task id="LOCAL-00001" summary="Having  some fun with JavaScript">
       <created>1656678358477</created>
@@ -185,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656975681094</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Having  some fun with JavaScript">
+      <created>1657614425113</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657614425113</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
